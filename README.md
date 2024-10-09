@@ -1,5 +1,5 @@
 # Planisuss: A Simulation of Ecosystem Dynamics
-----
+---
 ### Project Overview
 Planisuss is an interactive ecological simulation inspired by Wa-Tor and Conway’s Game of Life. The simulation models the interactions between three primary entities in a simplified world: Vegetob (plants), Erbast (herbivores), and Carviz (carnivores). These species engage in various ecological processes such as population growth, resource competition, predator-prey relationships, and group behaviors.
 
